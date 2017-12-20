@@ -1,0 +1,12 @@
+13:44:32:565	db16b740	args: -xpool stratum+ssl://xmr-us-east1.nanopool.org:14433 -xwal 462Rd9YDVdP4zU8yfWBDSi42zLPaNoj8CZvQ2x1SRvHaVXt7wnPriLJjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3hGYNif.dingosaurusRex/jsagan423@gmail.com -xpsw z 
+13:44:32:565	db16b740	
+13:44:32:565	db16b740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+13:44:32:565	db16b740	บ         Claymore's CryptoNote AMD GPU Miner v10.2 Beta         บ
+13:44:32:565	db16b740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+13:44:32:565	db16b740	
+13:44:32:765	db16b740	Wrong Monero wallet address, "-allpools 1" option will be enabled automatically, read Readme for details.
+13:44:32:765	db16b740	XMR: 6 pools are specified
+13:44:32:765	db16b740	Main Monero pool is xmr-us-east1.nanopool.org:14433
+13:44:32:770	db16b740	OpenCL platform: NVIDIA CUDA
+13:44:32:770	db16b740	AMD OpenCL platform not found 
+13:44:32:770	db16b740	No AMD OPENCLGPUs found, exit

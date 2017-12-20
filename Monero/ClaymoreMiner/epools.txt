@@ -1,0 +1,2 @@
+POOL: stratum+ssl://xmr-us-east1.nanopool.org:14433, WALLET: 462Rd9YDVdP4zU8yfWBDSi42zLPaNoj8CZvQ2x1SRvHaVXt7wnPriLJjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3hGYNif.dingosaurusRex/jsagan423@gmail.com, PSW: x, ALLPOOLS: 0
+POOL: stratum+ssl://xmr-us-west1.nanopool.org:14433, WALLET: 462Rd9YDVdP4zU8yfWBDSi42zLPaNoj8CZvQ2x1SRvHaVXt7wnPriLJjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3hGYNif.dingosaurusRex/jsagan423@gmail.com, PSW: x, ALLPOOLS: 0
